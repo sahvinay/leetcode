@@ -3,10 +3,10 @@ class Solution:
     def minWindow(self, s: str, t: str) -> str:
         need_freq = Counter(t)
         window_freq = {}
+        required = len(need_freq)
         min_len = float('inf')
         substring_index = (-1, -1)
         left = 0
-        required = len(need_freq)
         formed = 0
         for right in range(len(s)):
             curr_char = s[right]
