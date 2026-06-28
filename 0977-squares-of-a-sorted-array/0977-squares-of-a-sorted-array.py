@@ -4,7 +4,7 @@ class Solution:
         left = 0
         right = n - 1
         pos = n - 1
-        res = [0]* n
+        res = [0] * n
         while left <= right:
             if abs(nums[left]) > abs(nums[right]):
                 res[pos] = nums[left] * nums[left]
