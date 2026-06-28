@@ -2,7 +2,7 @@ from collections import Counter
 class Solution:
     def minWindow(self, s: str, t: str) -> str:
         need_freq = Counter(t)
-        window_freq= {}
+        window_freq = {}
         min_len = float('inf')
         substring_index = (-1, -1)
         left = 0
