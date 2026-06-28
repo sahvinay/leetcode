@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Sliding Window
 |  |
 | ------- |
+| [0076-minimum-window-substring](https://github.com/sahvinay/leetcode/tree/master/0076-minimum-window-substring) |
 | [0209-minimum-size-subarray-sum](https://github.com/sahvinay/leetcode/tree/master/0209-minimum-size-subarray-sum) |
 ## Prefix Sum
 |  |
@@ -33,4 +34,12 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0977-squares-of-a-sorted-array](https://github.com/sahvinay/leetcode/tree/master/0977-squares-of-a-sorted-array) |
+## Hash Table
+|  |
+| ------- |
+| [0076-minimum-window-substring](https://github.com/sahvinay/leetcode/tree/master/0076-minimum-window-substring) |
+## String
+|  |
+| ------- |
+| [0076-minimum-window-substring](https://github.com/sahvinay/leetcode/tree/master/0076-minimum-window-substring) |
 <!---LeetCode Topics End-->
