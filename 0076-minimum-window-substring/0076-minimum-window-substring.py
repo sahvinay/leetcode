@@ -4,7 +4,7 @@ class Solution:
         need_freq = Counter(t)
         window_freq = {}
         min_len = float('inf')
-        substring_index= (-1, -1)
+        substring_index = (-1, -1)
         left = 0
         required = len(need_freq)
         formed = 0
