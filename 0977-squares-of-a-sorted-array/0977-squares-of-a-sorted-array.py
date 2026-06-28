@@ -13,4 +13,5 @@ class Solution:
                 res[pos] = nums[right] * nums[right]
                 right -= 1
             pos -= 1
+
         return res
