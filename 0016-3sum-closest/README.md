@@ -18,7 +18,7 @@
 <pre>
 <strong>Input:</strong> nums = [0,0,0], target = 1
 <strong>Output:</strong> 0
-<strong>Explanation:</strong> The sum that is closest to the target is 0.(0 + 0 + 0 = 0).
+<strong>Explanation:</strong> The sum that is closest to the target is 0. (0 + 0 + 0 = 0).
 </pre>
 
 <p>&nbsp;</p>
