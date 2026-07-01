@@ -8,7 +8,7 @@
 <p><strong class="example">Example 1:</strong></p>
 
 <pre>
-<strong>Input:</strong> nums = [-1,2,1,-4], target = 1
+<strong>Input:</strong> nums = [-1,2,1,-4], target =1
 <strong>Output:</strong> 2
 <strong>Explanation:</strong> The sum that is closest to the target is 2. (-1 + 2 + 1 = 2).
 </pre>
