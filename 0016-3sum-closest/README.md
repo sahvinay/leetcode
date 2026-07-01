@@ -16,7 +16,7 @@
 <p><strong class="example">Example 2:</strong></p>
 
 <pre>
-<strong>Input:</strong> nums = [0,0,0], target = 1
+<strong>Input:</strong> nums =[0,0,0], target = 1
 <strong>Output:</strong> 0
 <strong>Explanation:</strong> The sum that is closest to the target is 0. (0 + 0 + 0 = 0).
 </pre>
