@@ -9,7 +9,7 @@
 
 <pre>
 <strong>Input:</strong> nums = [2,0,2,1,1,0]
-<strong>Output:</strong>[0,0,1,1,2,2]
+<strong>Output:</strong> [0,0,1,1,2,2]
 </pre>
 
 <p><strong class="example">Example 2:</strong></p>
