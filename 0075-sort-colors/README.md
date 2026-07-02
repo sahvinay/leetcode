@@ -8,7 +8,7 @@
 <p><strong class="example">Example 1:</strong></p>
 
 <pre>
-<strong>Input:</strong> nums= [2,0,2,1,1,0]
+<strong>Input:</strong> nums = [2,0,2,1,1,0]
 <strong>Output:</strong> [0,0,1,1,2,2]
 </pre>
 
