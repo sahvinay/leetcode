@@ -12,7 +12,7 @@
 <strong>Output:</strong> [0,0,1,1,2,2]
 </pre>
 
-<p><strong class="example"> Example 2:</strong></p>
+<p><strong class="example">Example 2:</strong></p>
 
 <pre>
 <strong>Input:</strong> nums = [2,0,1]
