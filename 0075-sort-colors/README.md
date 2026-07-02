@@ -2,7 +2,7 @@
 
 <p>We will use the integers <code>0</code>, <code>1</code>, and <code>2</code> to represent the color red, white, and blue, respectively.</p>
 
-<p>You must solve this problem without using the library&#39;s sort function.</p>
+<p>You mustsolve this problem without using the library&#39;s sort function.</p>
 
 <p>&nbsp;</p>
 <p><strong class="example">Example 1:</strong></p>
