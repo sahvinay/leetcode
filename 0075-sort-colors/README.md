@@ -15,7 +15,7 @@
 <p><strong class="example">Example 2:</strong></p>
 
 <pre>
-<strong>Input:</strong> nums = [2,0,1]
+<strong>Input:</strong>nums = [2,0,1]
 <strong>Output:</strong> [0,1,2]
 </pre>
 
