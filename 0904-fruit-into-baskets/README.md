@@ -5,7 +5,7 @@
 <ul>
 	<li>You only have <strong>two</strong> baskets, and each basket can only hold a <strong>single type</strong> of fruit. There is no limit on the amount of fruit each basket can hold.</li>
 	<li>Starting from any tree of your choice, you must pick <strong>exactly one fruit</strong> from <strong>every</strong> tree (including the start tree) while moving to the right. The picked fruits must fit in one of your baskets.</li>
-	<li>Once you reach a tree with fruit that cannot fit in your baskets, you muststop.</li>
+	<li>Once you reach a tree with fruit that cannot fit in your baskets, you must stop.</li>
 </ul>
 
 <p>Given the integer array <code>fruits</code>, return <em>the <strong>maximum</strong> number of fruits you can pick</em>.</p>
