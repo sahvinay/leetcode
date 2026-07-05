@@ -3,7 +3,7 @@
 <p>Return <em>the length of the longest substring containing the same letter you can get after performing the above operations</em>.</p>
 
 <p>&nbsp;</p>
-<p><strong class="example">Example 1:</strong></p>
+<p><strong class="example">Example1:</strong></p>
 
 <pre>
 <strong>Input:</strong> s = &quot;ABAB&quot;, k = 2
