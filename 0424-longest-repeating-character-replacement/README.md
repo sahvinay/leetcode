@@ -5,7 +5,7 @@
 <p>&nbsp;</p>
 <p><strong class="example">Example 1:</strong></p>
 
-<pre>
+<pre >
 <strong>Input:</strong> s = &quot;ABAB&quot;, k = 2
 <strong>Output:</strong> 4
 <strong>Explanation:</strong> Replace the two &#39;A&#39;s with two &#39;B&#39;s or vice versa.
