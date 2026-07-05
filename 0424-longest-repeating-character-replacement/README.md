@@ -2,7 +2,7 @@
 
 <p>Return <em>the length of the longest substring containing the same letter you can get after performing the above operations</em>.</p>
 
-<p>&nbsp;</p>
+<p>&nbsp; </p>
 <p><strong class="example">Example 1:</strong></p>
 
 <pre>
