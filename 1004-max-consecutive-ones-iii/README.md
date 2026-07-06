@@ -4,7 +4,7 @@
 <p><strong class="example">Example 1:</strong></p>
 
 <pre>
-<strong>Input:</strong> nums = [1,1,1,0,0,0,1,1,1,1,0], k = 2
+<strong>Input:</strong>nums = [1,1,1,0,0,0,1,1,1,1,0], k = 2
 <strong>Output:</strong> 6
 <strong>Explanation:</strong> [1,1,1,0,0,<u><strong>1</strong>,1,1,1,1,<strong>1</strong></u>]
 Bolded numbers were flipped from 0 to 1. The longest subarray is underlined.</pre>
