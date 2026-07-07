@@ -9,7 +9,7 @@
 <img alt="" src="https://assets.leetcode.com/uploads/2018/12/07/circularlinkedlist.png" style="width: 300px; height: 97px; margin-top: 8px; margin-bottom: 8px;" />
 <pre>
 <strong>Input:</strong> head = [3,2,0,-4], pos = 1
-<strong>Output:</strong> true
+<strong>Output:</strong>true
 <strong>Explanation:</strong> There is a cycle in the linked list, where the tail connects to the 1st node (0-indexed).
 </pre>
 
