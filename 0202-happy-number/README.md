@@ -5,7 +5,7 @@
 <ul>
 	<li>Starting with any positive integer, replace the number by the sum of the squares of its digits.</li>
 	<li>Repeat the process until the number equals 1 (where it will stay), or it <strong>loops endlessly in a cycle</strong> which does not include 1.</li>
-	<li>Thosenumbers for which this process <strong>ends in 1</strong> are happy.</li>
+	<li>Those numbers for which this process <strong>ends in 1</strong> are happy.</li>
 </ul>
 
 <p>Return <code>true</code> <em>if</em> <code>n</code> <em>is a happy number, and</em> <code>false</code> <em>if not</em>.</p>
