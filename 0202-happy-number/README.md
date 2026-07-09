@@ -8,7 +8,7 @@
 	<li>Those numbers for which this process <strong>ends in 1</strong> are happy.</li>
 </ul>
 
-<p>Return <code>true</code><em>if</em> <code>n</code> <em>is a happy number, and</em> <code>false</code> <em>if not</em>.</p>
+<p>Return <code>true</code> <em>if</em> <code>n</code> <em>is a happy number, and</em> <code>false</code> <em>if not</em>.</p>
 
 <p>&nbsp;</p>
 <p><strong class="example">Example 1:</strong></p>
