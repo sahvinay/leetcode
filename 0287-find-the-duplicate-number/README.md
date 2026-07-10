@@ -16,7 +16,7 @@
 
 <pre>
 <strong>Input:</strong> nums = [3,1,3,4,2]
-<strong>Output:</strong>3
+<strong>Output:</strong> 3
 </pre>
 
 <p><strong class="example">Example 3:</strong></p>
