@@ -6,7 +6,7 @@
 <p><strong class="example">Example 1:</strong></p>
 
 <pre>
-<strong>Input:</strong>n = &quot;32&quot;
+<strong>Input:</strong> n = &quot;32&quot;
 <strong>Output:</strong> 3
 <strong>Explanation:</strong> 10 + 11 + 11 = 32
 </pre>
