@@ -2,7 +2,7 @@
 
 <p>Given a string <code>n</code> that represents a positive decimal integer, return <em>the <strong>minimum</strong> number of positive <strong>deci-binary</strong> numbers needed so that they sum up to </em><code>n</code><em>.</em></p>
 
-<p>&nbsp;</p>
+<p>&nbsp; </p>
 <p><strong class="example">Example 1:</strong></p>
 
 <pre>
