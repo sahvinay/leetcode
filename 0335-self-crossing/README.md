@@ -8,7 +8,7 @@
 <p><strong class="example">Example 1:</strong></p>
 <img alt="" src="https://assets.leetcode.com/uploads/2022/12/21/11.jpg" style="width: 400px; height: 413px;" />
 <pre>
-<strong>Input:</strong>distance = [2,1,1,2]
+<strong>Input:</strong> distance = [2,1,1,2]
 <strong>Output:</strong> true
 <strong>Explanation:</strong> The path crosses itself at the point (0, 1).
 </pre>
