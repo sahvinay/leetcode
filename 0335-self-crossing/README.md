@@ -5,7 +5,7 @@
 <p>Return <code>true</code> <em>if your path crosses itself or </em><code>false</code><em> if it does not</em>.</p>
 
 <p>&nbsp;</p>
-<p><strong class="example">Example 1:</strong></p>
+<p><strong class="example">Example1:</strong></p>
 <img alt="" src="https://assets.leetcode.com/uploads/2022/12/21/11.jpg" style="width: 400px; height: 413px;" />
 <pre>
 <strong>Input:</strong> distance = [2,1,1,2]
