@@ -8,7 +8,7 @@
 <p><strong class="example">Example 1:</strong></p>
 
 <pre>
-<strong>Input:</strong>nums = [1,3,4,2,2]
+<strong>Input:</strong> nums = [1,3,4,2,2]
 <strong>Output:</strong> 2
 </pre>
 
