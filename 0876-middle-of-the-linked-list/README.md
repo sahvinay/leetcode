@@ -11,7 +11,7 @@
 <strong>Explanation:</strong> The middle node of the list is node 3.
 </pre>
 
-<p><strong class="example">Example 2:</strong></p>
+<p><strong class="example">Example2:</strong></p>
 <img alt="" src="https://assets.leetcode.com/uploads/2021/07/23/lc-midlist2.jpg" style="width: 664px; height: 65px;" />
 <pre>
 <strong>Input:</strong> head = [1,2,3,4,5,6]
