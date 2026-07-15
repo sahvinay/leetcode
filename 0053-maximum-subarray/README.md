@@ -9,7 +9,7 @@
 <strong>Explanation:</strong> The subarray [4,-1,2,1] has the largest sum 6.
 </pre>
 
-<p><strong class="example">Example 2:</strong></p>
+<p><strong class="example">Example2:</strong></p>
 
 <pre>
 <strong>Input:</strong> nums = [1]
