@@ -5,7 +5,7 @@
 
 <pre>
 <strong>Input:</strong> nums = [-2,1,-3,4,-1,2,1,-5,4]
-<strong>Output:</strong> 6
+<strong>Output:</strong>6
 <strong>Explanation:</strong> The subarray [4,-1,2,1] has the largest sum 6.
 </pre>
 
