@@ -4,7 +4,7 @@
 
 <p><strong>Note</strong> that the product of an array with a single element is the value of that element.</p>
 
-<p>&nbsp;</p>
+<p>&nbsp; </p>
 <p><strong class="example">Example 1:</strong></p>
 
 <pre>
