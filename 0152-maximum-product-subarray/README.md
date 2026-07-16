@@ -10,7 +10,7 @@
 <pre>
 <strong>Input:</strong> nums = [2,3,-2,4]
 <strong>Output:</strong> 6
-<strong>Explanation:</strong> [2,3] has the largest product 6.
+<strong>Explanation:</strong>[2,3] has the largest product 6.
 </pre>
 
 <p><strong class="example">Example 2:</strong></p>
