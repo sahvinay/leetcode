@@ -13,7 +13,7 @@
 <p><strong class="example">Example 2:</strong></p>
 
 <pre>
-<strong>Input:</strong> arr = [1,-2,-2,3]
+<strong>Input:</strong>arr = [1,-2,-2,3]
 <strong>Output:</strong> 3
 <strong>Explanation: </strong>We just choose [3] and it&#39;s the maximum sum.
 </pre>
