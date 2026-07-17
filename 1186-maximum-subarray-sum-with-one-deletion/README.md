@@ -7,7 +7,7 @@
 
 <pre>
 <strong>Input:</strong> arr = [1,-2,0,3]
-<strong>Output:</strong> 4
+<strong>Output:</strong>4
 <strong>Explanation: </strong>Because we can choose [1, -2, 0, 3] and drop -2, thus the subarray [1, 0, 3] becomes the maximum value.</pre>
 
 <p><strong class="example">Example 2:</strong></p>
