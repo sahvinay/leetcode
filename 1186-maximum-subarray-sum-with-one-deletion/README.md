@@ -3,7 +3,7 @@
 <p>Note that the subarray needs to be <strong>non-empty</strong> after deleting one element.</p>
 
 <p>&nbsp;</p>
-<p><strong class="example">Example1:</strong></p>
+<p><strong class="example">Example 1:</strong></p>
 
 <pre>
 <strong>Input:</strong> arr = [1,-2,0,3]
