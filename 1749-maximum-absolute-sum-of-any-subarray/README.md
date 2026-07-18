@@ -6,7 +6,7 @@
 
 <ul>
 	<li>If <code>x</code> is a negative integer, then <code>abs(x) = -x</code>.</li>
-	<li>If <code>x</code> is a non-negative integer, then <code>abs(x) = x</code>.</li>
+	<li>If<code>x</code> is a non-negative integer, then <code>abs(x) = x</code>.</li>
 </ul>
 
 <p>&nbsp;</p>
