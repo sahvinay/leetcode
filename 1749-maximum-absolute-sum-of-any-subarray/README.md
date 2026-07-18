@@ -15,7 +15,7 @@
 <pre>
 <strong>Input:</strong> nums = [1,-3,2,3,-4]
 <strong>Output:</strong> 5
-<strong>Explanation:</strong> The subarray [2,3] has absolute sum = abs(2+3) = abs(5) = 5.
+<strong> Explanation:</strong> The subarray [2,3] has absolute sum = abs(2+3) = abs(5) = 5.
 </pre>
 
 <p><strong class="example">Example 2:</strong></p>
