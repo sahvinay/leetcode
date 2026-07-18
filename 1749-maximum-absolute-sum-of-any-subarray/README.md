@@ -5,7 +5,7 @@
 <p>Note that <code>abs(x)</code> is defined as follows:</p>
 
 <ul>
-	<li>If<code>x</code> is a negative integer, then <code>abs(x) = -x</code>.</li>
+	<li>If <code>x</code> is a negative integer, then <code>abs(x) = -x</code>.</li>
 	<li>If <code>x</code> is a non-negative integer, then <code>abs(x) = x</code>.</li>
 </ul>
 
