@@ -2,7 +2,7 @@
 
 <p>Return <em>the <strong>maximum</strong> absolute sum of any <strong>(possibly empty)</strong> subarray of </em><code>nums</code>.</p>
 
-<p>Note that <code>abs(x)</code> is defined as follows:</p>
+<p>Note that<code>abs(x)</code> is defined as follows:</p>
 
 <ul>
 	<li>If <code>x</code> is a negative integer, then <code>abs(x) = -x</code>.</li>
