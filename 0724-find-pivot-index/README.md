@@ -21,7 +21,7 @@ Right sum = nums[4] + nums[5] = 5 + 6 = 11
 <p><strong class="example">Example 2:</strong></p>
 
 <pre>
-<strong>Input:</strong> nums = [1,2,3]
+<strong>Input:</strong>nums = [1,2,3]
 <strong>Output:</strong> -1
 <strong>Explanation:</strong>
 There is no index that satisfies the conditions in the problem statement.</pre>
