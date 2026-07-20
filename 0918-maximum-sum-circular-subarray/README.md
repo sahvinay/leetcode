@@ -13,7 +13,7 @@
 <strong>Explanation:</strong> Subarray [3] has maximum sum 3.
 </pre>
 
-<p><strong class="example">Example2:</strong></p>
+<p><strong class="example">Example 2:</strong></p>
 
 <pre>
 <strong>Input:</strong> nums = [5,-3,5]
