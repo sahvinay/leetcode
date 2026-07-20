@@ -21,7 +21,7 @@
 <strong>Explanation:</strong> Subarray [5,5] has maximum sum 5 + 5 = 10.
 </pre>
 
-<p><strong class="example">Example3:</strong></p>
+<p><strong class="example">Example 3:</strong></p>
 
 <pre>
 <strong>Input:</strong> nums = [-3,-2,-3]
