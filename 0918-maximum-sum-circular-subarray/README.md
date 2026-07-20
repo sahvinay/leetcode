@@ -8,7 +8,7 @@
 <p><strong class="example">Example 1:</strong></p>
 
 <pre>
-<strong>Input:</strong> nums = [1,-2,3,-2]
+<strong>Input:</strong>nums = [1,-2,3,-2]
 <strong>Output:</strong> 3
 <strong>Explanation:</strong> Subarray [3] has maximum sum 3.
 </pre>
