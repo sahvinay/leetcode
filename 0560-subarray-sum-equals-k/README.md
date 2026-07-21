@@ -6,7 +6,7 @@
 <p><strong class="example">Example 1:</strong></p>
 <pre><strong>Input:</strong> nums = [1,1,1], k = 2
 <strong>Output:</strong> 2
-</pre><p><strong class="example">Example 2:</strong></p>
+</pre><p><strong class="example">Example2:</strong></p>
 <pre><strong>Input:</strong> nums = [1,2,3], k = 3
 <strong>Output:</strong> 2
 </pre>
