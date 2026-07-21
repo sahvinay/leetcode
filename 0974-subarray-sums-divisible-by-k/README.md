@@ -2,7 +2,7 @@
 
 <p>A <strong>subarray</strong> is a <strong>contiguous</strong> part of an array.</p>
 
-<p>&nbsp;</p>
+<p>&nbsp; </p>
 <p><strong class="example">Example 1:</strong></p>
 
 <pre>
