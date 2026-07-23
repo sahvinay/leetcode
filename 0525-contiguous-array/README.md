@@ -4,7 +4,7 @@
 <p><strong class="example">Example 1:</strong></p>
 
 <pre>
-<strong>Input:</strong> nums = [0,1]
+<strong>Input:</strong>nums = [0,1]
 <strong>Output:</strong> 2
 <strong>Explanation:</strong> [0, 1] is the longest contiguous subarray with an equal number of 0 and 1.
 </pre>
