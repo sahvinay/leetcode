@@ -9,7 +9,7 @@
 <strong>Explanation:</strong> [0, 1] is the longest contiguous subarray with an equal number of 0 and 1.
 </pre>
 
-<p><strong class="example">Example2:</strong></p>
+<p><strong class="example">Example 2:</strong></p>
 
 <pre>
 <strong>Input:</strong> nums = [0,1,0]
