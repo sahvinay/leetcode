@@ -13,7 +13,7 @@ e<h2><a href="https://leetcode.com/problems/merge-intervals">56.Merge Intervals<
 
 <pre>
 <strong>Input:</strong> intervals = [[1,4],[4,5]]
-<strong>Output:</strong>[[1,5]]
+<strong>Output:</strong> [[1,5]]
 <strong>Explanation:</strong> Intervals [1,4] and [4,5] are considered overlapping.
 </pre>
 
