@@ -9,7 +9,7 @@ e<h2><a href="https://leetcode.com/problems/merge-intervals">56.Merge Intervals<
 <strong>Explanation:</strong> Since intervals [1,3] and [2,6] overlap, merge them into [1,6].
 </pre>
 
-<p><strong class="example">Example2:</strong></p>
+<p><strong class="example">Example 2:</strong></p>
 
 <pre>
 <strong>Input:</strong> intervals = [[1,4],[4,5]]
