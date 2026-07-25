@@ -8,7 +8,7 @@
 <pre>
 <strong>Input:</strong> s = &quot;ADOBECODEBANC&quot;, t = &quot;ABC&quot;
 <strong>Output:</strong> &quot;BANC&quot;
-<strong>Explanation:</strong> Theminimum window substring &quot;BANC&quot; includes &#39;A&#39;, &#39;B&#39;, and &#39;C&#39; from string t.
+<strong>Explanation:</strong> The minimum window substring &quot;BANC&quot; includes &#39;A&#39;, &#39;B&#39;, and &#39;C&#39; from string t.
 </pre>
 
 <p><strong class="example">Example 2:</strong></p>
