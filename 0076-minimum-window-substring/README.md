@@ -2,7 +2,7 @@
 
 <p>The testcases will be generated such that the answer is <strong>unique</strong>.</p>
 
-<p>&nbsp;</p>
+<p>&nbsp; </p>
 <p><strong class="example">Example 1:</strong></p>
 
 <pre>
