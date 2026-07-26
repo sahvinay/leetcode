@@ -28,5 +28,5 @@
 	<li><code>nums[i]</code> is either <code>0</code>, <code>1</code>, or <code>2</code>.</li>
 </ul>
 
-<p>&nbsp;</p>
+<p>&nbsp; </p>
 <p><strong>Follow up:</strong>&nbsp;Could you come up with a one-pass algorithm using only&nbsp;constant extra space?</p>
