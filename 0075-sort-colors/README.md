@@ -20,7 +20,7 @@
 </pre>
 
 <p>&nbsp;</p>
-<p><strong>Constraints: </strong></p>
+<p><strong>Constraints:</strong></p>
 
 <ul>
 	<li><code>n == nums.length</code></li>
