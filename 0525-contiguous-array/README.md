@@ -12,7 +12,7 @@
 <p> <strong class="example">Example 2:</strong></p>
 
 <pre>
-<strong>Input:</strong> nums = [0,1,0]
+<strong>Input: </strong> nums = [0,1,0]
 <strong>Output:</strong> 2
 <strong>Explanation:</strong> [0, 1] (or [1, 0]) is a longest contiguous subarray with equal number of 0 and 1.
 </pre>
