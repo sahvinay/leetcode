@@ -14,7 +14,7 @@
 <pre>
 <strong>Input:</strong> nums = [0,1,0]
 <strong>Output:</strong> 2
-<strong>Explanation: </strong> [0, 1] (or [1, 0]) is a longest contiguous subarray with equal number of 0 and 1.
+<strong>Explanation:</strong> [0, 1] (or [1, 0]) is a longest contiguous subarray with equal number of 0 and 1.
 </pre>
 
 <p><strong class="example">Example 3:</strong></p>
