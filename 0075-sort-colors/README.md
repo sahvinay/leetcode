@@ -16,7 +16,7 @@
 
 <pre>
 <strong>Input:</strong> nums = [2,0,1]
-<strong>Output: </strong> [0,1,2]
+<strong>Output:</strong> [0,1,2]
 </pre>
 
 <p>&nbsp;</p>
